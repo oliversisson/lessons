@@ -1,0 +1,37 @@
+'Hello and welcome to the ^bArticles^b course on Tapas Talk. We hope you learn a lot about ^ha^h, ^han^h & ^hthe^h.',
+'Let’s start with the ^bindefinite articles^b - ^ha^h and ^han^h. We use these before a noun when the noun is unknown to both the speaker and the listener.',
+'We use ^han^h with nouns that start with a vowel sound (a, e, i, o, u). Examples: ^han^h apple, ^han^h office, ^han^h egg.',
+'Otherwise we use ^ha^h. Examples: ^ha^h coat, ^ha^h table, ^ha^h blanket.',
+'^bQuiz^b - choose the correct article for the following nouns:',
+
+'^ha^h bed or ^han^h bed?',
+'response,a bed,right',
+'response,an bed,wrong',
+'That is correct!', 
+'It\'s ^ha bed^h.',
+
+'^ha^h artichoke or ^han^h artichoke?',
+'response,a artichoke,wrong',
+'response,an artichoke,right',
+'That is correct!', 
+'It\'s ^han artichoke^h.',
+
+'^ha^h coat or ^han^h coat?',
+'response,a coat,right',
+'response,an coat,wrong',
+'That is correct!', 
+'It\'s ^ha coat^h.', 
+
+'^ha^h office or ^han^h office?',
+'response,a office,wrong',
+'response,an office,right',
+'That is correct!', 
+'It\'s ^han office^h.',
+
+'^ha^h egg or ^han^h egg?', 
+'response,a egg,wrong',
+'response,an egg,right',
+'That is correct!', 
+'It\'s ^han egg^h.',
+
+'Sometimes we use ^han^h with words that start with ^hH^h.', 
