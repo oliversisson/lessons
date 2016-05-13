@@ -5,33 +5,33 @@
 '^bQuiz^b - choose the correct article for the following nouns:',
 
 '^ha^h bed or ^han^h bed?',
-'response,a bed,right',
-'response,an bed,wrong',
-'That is correct!', 
-'It\'s ^ha bed^h.',
+['response', [
+  ['right', 'a bed', 'That is correct!'],
+  ['wrong', 'an bed', 'It\'s ^ha bed^h.'],
+]],
 
 '^ha^h artichoke or ^han^h artichoke?',
-'response,a artichoke,wrong',
-'response,an artichoke,right',
-'That is correct!', 
-'It\'s ^han artichoke^h.',
+['response', [
+  ['wrong', 'a artichoke', 'It\'s ^han artichoke^h.'],
+  ['right', 'an artichoke', 'That is correct!'],
+]],
 
 '^ha^h coat or ^han^h coat?',
-'response,a coat,right',
-'response,an coat,wrong',
-'That is correct!', 
-'It\'s ^ha coat^h.', 
+['response', [
+  ['right', 'a coat', 'That is correct!'],
+  ['wrong', 'an coat', 'It\'s ^ha coat^h.'],
+]],
 
 '^ha^h office or ^han^h office?',
-'response,a office,wrong',
-'response,an office,right',
-'That is correct!', 
-'It\'s ^han office^h.',
+['response', [
+  ['wrong', 'a office', 'It\'s ^han office^h.'],
+  ['right', 'an office', 'That is correct!'],
+]],
 
 '^ha^h egg or ^han^h egg?', 
-'response,a egg,wrong',
-'response,an egg,right',
-'That is correct!', 
-'It\'s ^han egg^h.',
+['response', [
+  ['wrong', 'a egg', 'That is correct!'],
+  ['right', 'an egg', 'It\'s ^han egg^h.'],
+]],
 
-'Sometimes we use ^han^h with words that start with ^hH^h.', 
+'Sometimes we use ^han^h with words that start with ^hH^h.',
